@@ -1,3 +1,7 @@
+/*
+Date--4/7/2022
+Purpose--  Printing natural numbers in range.
+*/
 #include <stdio.h>
 int main()
 {

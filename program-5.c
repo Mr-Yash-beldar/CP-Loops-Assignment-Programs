@@ -1,3 +1,7 @@
+/*
+Date--4/7/2022
+Purpose--  Printing alphabets using ascii value.
+*/
 #include <stdio.h>
 int main()
 {
