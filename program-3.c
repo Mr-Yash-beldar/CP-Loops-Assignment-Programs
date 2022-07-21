@@ -6,13 +6,13 @@ Purpose--  Printing natural numbers reverse.
 int main()
 {
     int i, start;
-    printf(" Enter starting value: ");
-    scanf("%d", &start);
+    printf("Enter starting value: ");
+    scanf("%d",&start);
 
-    for (i = start; i >= 1; i--)
-        {
-            printf("%d  ", i);
-        }
+    for (i =start; i >=1; i--)
+    {
+        printf("%d  ", i);
+    }
 
     return 0;
 }

@@ -7,7 +7,7 @@ int main()
 {
     int num, sum = 0, firstDigit, lastDigit;
     printf(" Enter number to find sum of first and last digit: ");
-    scanf("%d", &num);
+    scanf("%d",&num);
 
     lastDigit = num % 10;
 

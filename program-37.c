@@ -1,9 +1,12 @@
-
+/*
+Date--10/7/2022
+Purpose--
+*/
 #include <stdio.h>
 int main()
 {
     int i, j, end, isPrime, sum = 0;
-    printf(" Find sum of all prime between 1 to : ");
+    printf("Find sum of all prime between 1 to : ");
     scanf("%d", &end);
 
     for (i = 2; i <= end; i++)
@@ -25,6 +28,5 @@ int main()
         }
     }
 
-    printf(" Sum of all prime numbers between 1 to %d = %d", end,sum);
-
+    printf(" Sum of all prime numbers between 1 to %d = %d", end, sum);
 }

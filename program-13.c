@@ -1,12 +1,12 @@
 /*
 Date--5/7/2022
-Purpose-- 
+Purpose--
 */
 #include <stdio.h>
 int main()
 {
     int i, n, sum = 0;
-    printf(" Enter upper limit: ");
+    printf("Enter upper limit: ");
     scanf("%d", &n);
 
     for (i = 1; i <= n; i++)

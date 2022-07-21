@@ -7,7 +7,7 @@ int main()
 {
     int i, start, end, sum = 0;
     printf(" Enter lower limit:	");
-    scanf("%d", &start);
+    scanf("%d",&start);
 
     printf(" Enter upper limit:	");
     scanf("%d", &end);

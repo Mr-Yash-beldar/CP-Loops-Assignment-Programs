@@ -7,7 +7,7 @@ int main()
 {
     int i, num;
     printf(" Enter number to print table: ");
-    scanf("%d", &num);
+    scanf("%d",&num);
 
     for (i = 1; i <= 10; i++)
     {

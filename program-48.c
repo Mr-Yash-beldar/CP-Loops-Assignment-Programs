@@ -1,10 +1,14 @@
+/*
+Date--12/7/2022
+Purpose-- 
+*/
 #include <stdio.h>
 void main()
 {
     int i, j, cur, lastDigit, end;
     int fact, sum;
-    printf(" Enter upper limit: ");
-    scanf("%d", &end);
+    printf("Enter upper limit: ");
+    scanf("%d",&end);
 
     printf(" All Strong numbers between 1 to %d are:\n", end);
 

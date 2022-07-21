@@ -6,7 +6,7 @@ Purpose--  Printing natural numbers upto limit.
 int main()
 {
     int i, n;
-    printf(" Enter any number: ");
+    printf("Enter any number: ");
     scanf("%d", &n);
 
     printf(" Natural numbers from 1 to %d : \n", n);

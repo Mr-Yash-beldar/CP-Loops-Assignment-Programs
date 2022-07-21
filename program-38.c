@@ -1,10 +1,14 @@
+/*
+Date--10/7/2022
+Purpose-- 
+*/
 #include <stdio.h>
 #include <math.h>
 int main()
 {
     int originalNum, num, lastDigit, digits, sum; 
-    printf(" Enter any number to check Armstrong number:	");
-    scanf("%d", &num);
+    printf("Enter any number to check Armstrong number:	");
+    scanf("%d",&num);
 
     sum = 0;
     originalNum = num;

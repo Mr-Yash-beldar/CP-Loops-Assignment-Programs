@@ -1,10 +1,14 @@
+/*
+Date--12/7/2022
+Purpose-- 
+*/
 #include <stdio.h>
 int main()
 {
     int i, originalNum, num, lastDigit, sum;
-    long fact;
+   int fact;
 
-    printf(" Enter any number to check Strong number:	");
+    printf("Enter any number to check Strong number: ");
     scanf("%d", &num);
 
     originalNum = num;

@@ -8,7 +8,7 @@ int main()
    int num;
     int count = 0;
     printf(" Enter any number: ");
-    scanf("%d", &num);
+    scanf("%d",&num);
 
     do
     {
