@@ -1,3 +1,7 @@
+/*
+Date--5/7/2022
+Purpose-- 
+*/
 #include <stdio.h>
 int main()
 {
